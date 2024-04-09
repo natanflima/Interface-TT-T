@@ -1,0 +1,64 @@
+*   {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    html,body,.container{
+        width: 100vw; /**viewport, largura*/
+        min-height: 100vh; /*viewport height*/
+    }   
+
+    .escondido {
+        display:none;
+    }
+
+    .container{
+        display:flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        background-color: rgb(40, 115, 117);
+    }
+
+    
+    .container button {
+        font-size: 22px;
+        background-color: white;
+        color: rgb(40, 115, 117);
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        margin-top: 8px;
+        margin-bottom: 16px;
+    }
+    
+    .container h3 {
+        color: white;
+        margin-top: 12px;
+        margin-bottom: 4px;
+    }
+    
+    .container .lista {
+        background-color: white;
+        border-radius: 5px;
+        padding: 12px;
+        margin-bottom: 16px;
+    }
+    
+    .container .usuario {
+        background-color: rgb(40, 103, 105);
+        color: white;
+        padding: 8px;
+        margin-bottom: 8px;
+        border-radius: 5px;
+    }
+    
+    .container .titulo {
+        color: rgb(40, 110, 112);
+        font-weight: bold;
+        font-size: 22px;
+        margin-top: 8px;
+    }

@@ -1,0 +1,27 @@
+[
+    {
+        "userName": [
+            "Antonio Castilho (Chefão)",
+            "Lucas Brito (Front/Tech Leader)",
+            "Cristiano (Back/Product Manager)",
+            "Vanessa Rosa (Product Manager)",
+            "Luiz Felipe (Front)",
+            "Ana Beatriz (Front)",
+            "Matheus Duarte (Back)",
+            "Gyovana (Back)"
+        ],
+        "id": 1,
+        "title": "Sejam bem-vindos à TT&T!",
+        "completed": true
+    },
+    {
+        "userName": [
+            "Natan",
+            "Milena",
+            "Yago"
+        ],
+        "id": 2,
+        "title": "Somos os novos estagiários e estamos prontos para aprender coisas novas!",
+        "completed": true
+    }
+]
